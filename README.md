@@ -53,7 +53,7 @@ The loader accepts a list of file paths. Supported formats are automatically det
 ### Run the Chatbot
 
 ```bash
-Run the Chatbot
+python chatbot.py
 ```
 
 The first run may take ~30 seconds to download the embedding model. Once ready, type your questions – for example:
